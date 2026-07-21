@@ -1,0 +1,4 @@
+model,MAE,RMSE,MAPE_%,R2
+Linear Regression,125.955,162.777,7.616,0.854
+Ridge (alpha=1.0),126.11,162.843,7.621,0.854
+Lasso (alpha=1.0),125.574,161.722,7.589,0.856
